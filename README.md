@@ -35,4 +35,3 @@ Vrinda Stores wanted to analyze their previous year’s sales data to better und
 4. Clothing was the highest-selling product category
 5. March recorded the highest sales volume
 
-KPIs (Total Sales, Total Orders, Avg. Order Value, etc.)
