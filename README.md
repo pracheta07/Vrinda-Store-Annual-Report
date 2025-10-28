@@ -1,5 +1,4 @@
 # Vrinda Store Sales Analysis Dashboard (Excel)
-# Project Overview
 Vrinda Stores wanted to analyze their previous year’s sales data to better understand customer behavior and make data-driven decisions for the upcoming year. This project focuses on exploring and visualizing sales trends, customer demographics, and product performance through an interactive Excel Dashboard.
 
 # Problem Statement
