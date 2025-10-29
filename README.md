@@ -2,13 +2,13 @@
 Vrinda Stores wanted to analyze their previous year’s sales data to better understand customer behavior and make data-driven decisions for the upcoming year. This project focuses on exploring and visualizing sales trends, customer demographics, and product performance through an interactive Excel Dashboard.
 
 # Problem Statement
-1. Vrinda Stores aims to analyze last year’s sales data to answer key business questions such as:
-2. What are the total sales vs total orders trends?
-3. Which states generated the highest sales?
-4. What is the gender-based purchase trend (men vs women)?
-5. Which sales channels contributed the most revenue?
-6. What are the top-performing product categories?
-7. Which month recorded the highest sales?
+Vrinda Stores aims to analyze last year’s sales data to answer key business questions such as:
+1. What are the total sales vs total orders trends?
+2. Which states generated the highest sales?
+3. What is the gender-based purchase trend (men vs women)?
+4. Which sales channels contributed the most revenue?
+5. What are the top-performing product categories?
+6. Which month recorded the highest sales?
 
 # Steps Involved
 
